@@ -24,7 +24,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/SpectroForge-DSP.git
+git clone [https://github.com/BOSSX918spy/SpectroForge-DSP.git](https://github.com/BOSSX918spy/WaveSmith-DSP)
 Open the liveFFTwithFiltersDSP.m script in MATLAB.
 Usage:
 
