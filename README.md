@@ -15,7 +15,8 @@
 
 ### Requirements
 - MATLAB with the DSP System Toolbox.
-- MATLAB Parallel Computing Toolbox.
+- MATLAB Parallel Computing Toolbox (optional- only needed for parpool code).
+- Audio Toolkit
 - A compatible audio file (preferably in WAV format).
 
 ### Installation
